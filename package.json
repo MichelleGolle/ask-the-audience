@@ -1,0 +1,25 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleGolle/ask-the-audience.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleGolle/ask-the-audience/issues"
+  },
+  "homepage": "https://github.com/MichelleGolle/ask-the-audience#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "socket.io": "^1.3.6"
+  }
+}
